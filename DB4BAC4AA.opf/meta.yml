@@ -1,0 +1,22 @@
+id: DB4BAC4AA
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T07:01:16+00:00'
+last_modified: '2022-05-26T12:48:26.788354+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    d1a7:
+      image_group_id: I1PD95884
+      title: སྒྲོལ་མའི་སྒྲུབ་ཐབས།
+      total_pages: 1625
+      order: 39
+      base_file: d1a7.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
